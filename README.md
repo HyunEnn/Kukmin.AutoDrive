@@ -1,5 +1,4 @@
 # Kukmin.AutoDrive
-Config files for my GitHub profile.
 -- 5번째 국민대 자율주행 공모전 --
 
 ROS 를 사용한 자율주행 프로토타입 시현
